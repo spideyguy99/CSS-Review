@@ -1,0 +1,43 @@
+.content{
+    padding: 15px;
+    margin: 25px;
+    background-color: #efefef;
+}
+
+.Nav{
+    background-color: #efefef;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.liStyle{
+    display: inline;
+}
+
+.linkStyle{
+    text-decoration: none;
+    color: black;
+}
+
+.homePic{
+    width: 100%;
+    height: auto;
+}
+
+.headShotStyle{
+    height: 100px;
+    width: 100px;
+}
+
+.productBox{
+    height: 185px;
+    width: 185px;
+    background-color: blue;
+    margin: 25px;
+    color: white;
+    padding: 15px;
+}
+.productContainer{
+    display: flex;
+}
